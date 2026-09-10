@@ -21,4 +21,4 @@ def view_patients():
             "Name:", patient["name"],
             "Age:", patient["age"],
             "Disease:", patient["disease"]
-        )
+        ) 
